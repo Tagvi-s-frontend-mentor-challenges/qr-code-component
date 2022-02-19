@@ -10,6 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+This one was super easy, took me about 5 minutes.
+
 ### Built with
 
 - Semantic HTML5 markup
